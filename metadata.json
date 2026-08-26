@@ -1,0 +1,7 @@
+{
+  "name": "RANGA AI STUDIO",
+  "description": "Estúdio de criação inteligente para produzir novelinhas, séries, desenhos animados e filmes com assistente de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
